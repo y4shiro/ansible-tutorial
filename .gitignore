@@ -1,0 +1,5 @@
+### https://raw.github.com/github/gitignore/cd872a98f0faf94f3472645e9f8cacfbcd463b71/Global/Ansible.gitignore
+
+*.retry
+
+
